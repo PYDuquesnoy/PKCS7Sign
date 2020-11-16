@@ -1,0 +1,7 @@
+C:\Users\pyd\source\repos\PKCS7console\bin\Debug\PKCS7console.exe.config
+C:\Users\pyd\source\repos\PKCS7console\bin\Debug\PKCS7console.exe
+C:\Users\pyd\source\repos\PKCS7console\bin\Debug\PKCS7console.pdb
+C:\Users\pyd\source\repos\PKCS7console\obj\Debug\PKCS7console.csproj.CoreCompileInputs.cache
+C:\Users\pyd\source\repos\PKCS7console\obj\Debug\PKCS7console.exe
+C:\Users\pyd\source\repos\PKCS7console\obj\Debug\PKCS7console.pdb
+C:\Users\pyd\source\repos\PKCS7console\obj\Debug\PKCS7console.csprojAssemblyReference.cache
